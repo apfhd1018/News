@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://apfhd1018.github.io/News-Page/"
+  "homepage": "https://apfhd1018.github.io/News/",
+  "devDependencies": {
+    "http-proxy-middleware": "^1.0.4"
+  }
 }
